@@ -70,4 +70,10 @@ To update the swagger editor used by the IDE,
 2. In the `swagger-editor` dir, run `grunt build`
 3. Copy the `dist` directory to this (Koodain) repository as `client/swagger-editor`.
 
+## LICENSE
 
+This project itself is under BSD New Licesne. This project is using three main components which are under MIT License and/or Apache License 2.0:
+
+1. angular-ui-ace (https://github.com/angular-ui) which is usder MIT License.
+2. vis.js (https://github.com/almende/vis) which is under dual licesne (MIT and Apache License 2.0)
+3. swagger-editor (https://github.com/swagger-api/swagger-editor) which is under Apache License 2.0.
